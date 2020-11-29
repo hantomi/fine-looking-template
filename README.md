@@ -8,15 +8,15 @@
 
 ### Page Preview 📷
 
-* Simple Login Form
-![Login page](review-picture/Simple-Login.gif)
-* Neon Button (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
+* Simple Login Form <br/>
+![Login page](review-picture/Simple-Login.gif) 
+* Neon Button (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)) <br/>
 ![Neon Button](review-picture/Neon_Button.gif)
-* Password validator (From: [codeSTACKr](https://github.com/codeSTACKr))
+* Password validator (From: [codeSTACKr](https://github.com/codeSTACKr)) <br/>
 ![Password Valiator](https://res.cloudinary.com/practicaldev/image/fetch/s--vWG0pkCi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wufwyi2b1r1avqgecrm5.gif)
-* Resizeable background when scroll down (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
+* Resizeable background when scroll down (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)) <br/>
 ![Background resize](review-picture/Web_Page.gif)
-* Custom 404 Page (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
+* Custom 404 Page (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)) <br/>
 ![404 Page](review-picture/404_Page.gif)
 
 ### Connect with me 👐
