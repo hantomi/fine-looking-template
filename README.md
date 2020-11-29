@@ -7,8 +7,16 @@
 * 💡 Even implement some outsider frameworks
 
 ### Page Preview 📷
-* Simple Login Form:
+* Simple Login Form
 ![Login page](review-picture/preview_1.png)
+* Neon Button (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
+![Neon Button](review-picture/Neon_Button.gif)
+* Password validator (From: [codeSTACKr](https://github.com/codeSTACKr))
+![Password Valiator](review-picture/Password_Validator.gif)
+* Resizeable background when scroll down (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
+![Background resize](review-picture/Web_Page.gif)
+* Custom 404 Page (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
+![404 Page](review-picture/404_Page.gif)
 
 
 ### Connect with me 👐
