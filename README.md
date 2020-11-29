@@ -11,9 +11,9 @@
 * Simple Login Form
 ![Login page](review-picture/preview_1.png)
 * Neon Button (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
-![Neon Button](https://res.cloudinary.com/practicaldev/image/fetch/s--vWG0pkCi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wufwyi2b1r1avqgecrm5.gif)
+![Neon Button](review-picture/Neon_Button.gif)
 * Password validator (From: [codeSTACKr](https://github.com/codeSTACKr))
-![Password Valiator](review-picture/Password_Validator.gif)
+![Password Valiator](https://res.cloudinary.com/practicaldev/image/fetch/s--vWG0pkCi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wufwyi2b1r1avqgecrm5.gif)
 * Resizeable background when scroll down (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
 ![Background resize](review-picture/Web_Page.gif)
 * Custom 404 Page (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
