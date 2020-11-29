@@ -9,7 +9,7 @@
 ### Page Preview 📷
 
 * Simple Login Form
-![Login page](review-picture/Simple_Login.gif)
+![Login page](review-picture/Simple-Login.gif)
 * Neon Button (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
 ![Neon Button](review-picture/Neon_Button.gif)
 * Password validator (From: [codeSTACKr](https://github.com/codeSTACKr))
