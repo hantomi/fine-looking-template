@@ -18,6 +18,10 @@
 ![Background resize](review-picture/Web_Page.gif)
 * Custom 404 Page (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)) <br/>
 ![404 Page](review-picture/404_Page.gif)
+* Simple footer design
+![Simple Footer](review-picture/Simple-footer.png)
+with responsive design
+![Responsive Footer](review-picture/simple-footer-straight.png)
 
 ### Connect with me 👐
 
