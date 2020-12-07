@@ -76,7 +76,29 @@ body {
 
 .card:hover .percent .number h2 {
     color: #fff;
-    font-size: 60px;s
+    font-size: 60px;
+}
+
+.percent .number h2 span {
+    font-size: 24px;
+    color: #777;
+}
+.card:hover .percent .number h2 span {
+    color: #fff;
+}
+
+.text {
+    position: relative;
+    color: #777;
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+.card:hover .text {
+    color: #fff;
 }
 svg {
     position: relative;
