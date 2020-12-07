@@ -4,6 +4,7 @@
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
+
 body {
     display: flex;
     justify-content: center;
@@ -11,12 +12,14 @@ body {
     min-height: 100vh;
     background: #101010;
 }
+
 .container {
     position: relative;
     width: 900px;
     display: flex;
     justify-content: space-around;
 }
+
 .container .card {
     position: relative;
     width: 250px; 
@@ -30,6 +33,7 @@ body {
     overflow: hidden;
     transition: 0.5s;
 }
+
 .container .card::before {
     content: '';
     position: absolute;
@@ -41,10 +45,12 @@ body {
     pointer-events: none;
     z-index: 1;
 }
+
 .container .card:hover {
     transform: translateY(-10px);
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
 }
+
 .percent {
     position: relative;
     width: 150px;
@@ -83,6 +89,7 @@ body {
     font-size: 24px;
     color: #777;
 }
+
 .card:hover .percent .number h2 span {
     color: #fff;
 }
@@ -97,15 +104,18 @@ body {
     text-transform: uppercase;
     transition: 0.5s;
 }
+
 .card:hover .text {
     color: #fff;
 }
+
 svg {
     position: relative;
     width: 150px;
     height: 150px;
     z-index: 1000;
 }
+
 svg circle {
     width: 100%;
     height: 100%;
@@ -115,18 +125,22 @@ svg circle {
     stroke-linecap: round;
     transform: translate(5px,5px);
 }
+
 svg circle:nth-child(2) {
     stroke-dasharray: 440;
     stroke-dashoffset: 440;
 }
+
 .card:nth-child(1) svg circle:nth-child(2) {
     stroke-dashoffset: calc(440 - (440 * 85 / 100));
     stroke: #CD5D00;
 }
+
 .card:nth-child(2) svg circle:nth-child(2) {
     stroke-dashoffset: calc(440 - (440 * 65 / 100));
     stroke: #00B7E5;
 }
+
 .card:nth-child(3) svg circle:nth-child(2) {
     stroke-dashoffset: calc(440 - (440 * 34 / 100));
     stroke: #fffb00;
