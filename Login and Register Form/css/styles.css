@@ -88,6 +88,24 @@ section .container .user .formBx form input {
     font-size: 14px;
     letter-spacing: 1px;
     font-weight: 300;
+    transition: 0.5s;
+}
+
+section .container .user .formBx form input[type="text"]:hover {
+    font-size: 16px;
+    font-weight: 350;
+}
+section .container .user .formBx form input[type="password"]:hover {
+    font-size: 16px;
+    font-weight: 350;
+}
+section .container .user .formBx form input[type="text"]:focus {
+    font-size: 16px;
+    font-weight: 350;
+}
+section .container .user .formBx form input[type="password"]:focus {
+    font-size: 16px;
+    font-weight: 350;
 }
 
 section .container .user .formBx form input[type="submit"] {
