@@ -142,3 +142,38 @@ section .container .user .formBx form .signup a {
     text-decoration: none;
     color: #677eff;
 }
+
+section .container .singupBx {
+    pointer-events: none;
+}
+section .container.active .singupBx {
+    pointer-events: initial;
+}
+
+section .container .singupBx .formBx {
+    left: 100%;
+}
+section .container.active .singupBx .formBx {
+    left: 0;
+}
+
+section .container .singupBx .imgBx {
+    left: -100%;
+}
+section .container.active .singupBx .imgBx {
+    left: 0;
+}
+
+section .container .singinBx .formBx {
+    left: 0;
+}
+section .container.active .singinBx .formBx {
+    left: 100%;
+}
+
+section .container .singinBx .imgBx {
+    left: 0;
+}
+section .container.active .singinBx .imgBx {
+    left: -100%;
+}
