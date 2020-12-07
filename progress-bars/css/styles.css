@@ -116,15 +116,18 @@ svg circle {
     transform: translate(5px,5px);
 }
 svg circle:nth-child(2) {
-    stroke-dasharray: 220;
-    stroke-dashoffset: 220;
+    stroke-dasharray: 440;
+    stroke-dashoffset: 440;
 }
 .card:nth-child(1) svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 85 / 100));
     stroke: #CD5D00;
 }
 .card:nth-child(2) svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 65 / 100));
     stroke: #00B7E5;
 }
 .card:nth-child(3) svg circle:nth-child(2) {
+    stroke-dashoffset: calc(440 - (440 * 34 / 100));
     stroke: #fffb00;
 }
