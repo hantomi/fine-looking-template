@@ -10,11 +10,12 @@
 section {
     position: relative;
     min-height: 100vh;
-    background: #925916;
+    background: #0C0E43;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 20px;
+    transition: 0.5s;
 }
 
 section .container {
@@ -176,4 +177,16 @@ section .container .singinBx .imgBx {
 }
 section .container.active .singinBx .imgBx {
     left: -100%;
+}
+
+@media (max-width: 991px) {
+    section .container {
+        max-width: 400px;
+    }
+    section .container .imgBx {
+        display: none;
+    }
+    section .container .user .formBx {
+        width: 100%;
+    }
 }
