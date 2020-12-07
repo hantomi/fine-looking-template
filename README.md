@@ -24,6 +24,8 @@ with responsive design
 ![Responsive Footer](review-picture/simple-footer-straight.png)
 * Language Progress Bars (From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
 
+* Login and Register Form (Idea From: [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog))
+
 
 ### Connect with me 👐
 
