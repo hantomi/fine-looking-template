@@ -8,6 +8,7 @@
 body {
     background: #111111;
     padding-bottom: 300px;
+    overflow-x: hidden;
 }
 
 body::before {
